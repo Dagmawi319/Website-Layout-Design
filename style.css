@@ -1,0 +1,55 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   color: grey;
+   background-color: azure;
+   
+}
+.header ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+.header ul li a {
+    color: aliceblue;
+    text-decoration: none;
+    color: grey;
+}
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-image: url(hero.jpg);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-size: cover;
+    padding: 5%;
+}
+.hero a {
+      text-decoration: none;
+      color: black;
+      background-color:white;
+      border-radius: 3px;
+      padding: 10px 25px;
+}
+  .product {
+   text-align: center;
+   align-items: center;
+   background-color:whitesmoke;
+  }    
+  .product .ourproducts{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;  
+  }
+  .aboutus {
+    display: flex;
+    justify-content:space-around;
+    flex: 20px;
+    align-items: center;
+    text-align: center;
+    padding: 1%;
+    background-color: rgb(231, 229, 229);
+  }
