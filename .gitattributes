@@ -1,2 +1,74 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Website Layout</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="header">
+      <div class="logo">
+        <h1>LOGO</h1>
+      </div>
+      <div class="navigation">
+        <ul>
+          <li>
+            <a href="index.html"><h3>Home</h3></a>
+          </li>
+          <li>
+            <a href="product.html"><h3>Product</h3></a>
+          </li>
+          <li>
+            <a href="pricing.html"><h3>Pricing</h3></a>
+          </li>
+          <li>
+            <a href="contact.html"><h3>Contact Us</h3></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="hero">
+      <h1>WE HELP YOUR BUSINESS</h1>
+      <p>
+        It is a long estabilished fact that a reader will be distracted by<br />thereadable
+        content of page when looking at its layout
+      </p>
+      <a href="learnmore.html">LEARN MORE</a>
+    </div>
+    <div class="product">
+      <div class="heading">
+        <h1>OUR PRODUCTS</h1>
+      </div>
+     <div class="ourproducts">
+      <div class="product1">
+        <img src="star.png">
+        <h1>SEO</h1>
+        <p>It is a long estabilished  <br>fact that a reader will <br>  be distracted by the <br></p>
+      </div>
+<div class="product2">
+        <img src="star.png">
+        <h1>BRANDING</h1>
+        <p>It is a long estabilished  <br>fact that a reader will <br>  be distracted by the <br></p>
+      </div>
+      <div class="product3">
+        <img src="star.png">
+        <h1>LOGO</h1>
+        <p> It is a long estabilished  <br>fact that a reader will <br>  be distracted by the <br></p>
+      </div>
+     </div>
+    </div>
+    <div class="aboutus">
+     <div class="statement">
+       <h1>ABOUT US</h1>
+       <p> It is a long estabilished fact that a <br>reader will be distracted by<br />the readable
+        content of page when <br>looking at its layout </p>
+      </div>
+      <div class="image">
+        <img src="ab.png">
+      </div>
+    </div>
+  </body>
+</html>
